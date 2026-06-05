@@ -1,4 +1,4 @@
-# DocuMind 🤖
+# DocuMind 
 
 **RAG-Powered Knowledge Assistant** — Upload documents and get smart, context-aware answers using retrieval-augmented generation.
 
