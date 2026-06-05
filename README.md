@@ -1,22 +1,29 @@
-# ?? RAG Chat App
+# DocuMind 🤖
 
-A Retrieval-Augmented Generation (RAG) app that lets you upload PDF or TXT files and ask questions about them using AI.
+**RAG-Powered Knowledge Assistant** — Upload documents and get smart, context-aware answers using retrieval-augmented generation.
 
 ## Features
-- Upload PDF and TXT files
-- Ask questions about your documents
-- Powered by Groq AI (free!)
-- Beautiful Streamlit UI
+- Ask questions from your documents
+- RAG-based smart retrieval
+- Fast and interactive UI
+- Clean document understanding workflow
+
+## Tech Stack
+- Python
+- Streamlit
+- LangChain
+- Scikit-learn
+- Pandas
+- ChromaDB
 
 ## Setup
 
-1. Install dependencies:
-pip install streamlit pypdf2 groq chromadb
+```bash
+git clone https://github.com/Cashlin3/DocuMind--RAG-Powered-Knowledge-Assistant.git
+cd DocuMind--RAG-Powered-Knowledge-Assistant
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-2. Get a free Groq API key at https://console.groq.com
-
-3. Run the app:
-streamlit run rag_streamlit.py
-
-## How it works
-Upload a document ? App splits it into chunks ? You ask a question ? App finds relevant chunks ? Groq AI answers using those chunks
+## Project Link
+[GitHub Repository](https://github.com/Cashlin3/DocuMind--RAG-Powered-Knowledge-Assistant)
