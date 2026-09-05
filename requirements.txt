@@ -2,5 +2,5 @@ streamlit
 groq
 chromadb
 PyPDF2
-langchain-text-splitters
+langchain
 tiktoken
