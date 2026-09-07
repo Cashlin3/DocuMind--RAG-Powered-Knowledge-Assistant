@@ -2,7 +2,6 @@
 
 ### Ask Your Documents Anything, Get Answers Grounded in Reality
 
-**[Live Demo →](https://share.streamlit.io)**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![LangChain](https://img.shields.io/badge/LangChain-Text%20Splitting-1C3C3C?logo=langchain) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-orange) ![Groq](https://img.shields.io/badge/Groq-LPU%20Inference-F55036) ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
 
